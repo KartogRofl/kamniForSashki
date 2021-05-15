@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a813a1b6-98df-4719-957a-06bb658235f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Data/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Migrations/20210506063251_addProductToDb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/Product/Upsert.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/Product/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/Category/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/Category/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Controllers/ApplicationTypeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/Category/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/Category/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Controllers/CategoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Models/ApplicationType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Models/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Models/ViewModels/ProductVM.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1FF5C91A-C757-4584-A27B-725DEF6253FE/12/IWebHostEnvironment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0A883785-B2AF-4CF2-A8F8-25290134B02F/F/RazorPageOfT.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jolusoid/WC.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Jolusoid/appsettings.json" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category/Category.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category/Category.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category/Create.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/ApplicatiomType.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/ApplicationType/ApplicationType.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/Category.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Create.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Controllers/CategoryController.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category/Create.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Category/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/ApplicationType/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Data/ApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Product/DeletePost.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Controllers/ApplicationTypeController.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/ApplicationType.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/ViewModels/ProductVM.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Product/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Product/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Product/Upsert.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/ViewModels/HomeVM.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/ViewModels/DetailsVM.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Shared/_IndividualProductCard.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Utility/SessionsExtensions.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/WC.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Models/ShoppingCart.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Startup.cs" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Views/Home/Details.cshtml" />
+        <option value="$PROJECT_DIR$/Jolusoid/Controllers/HomeController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rvMHBEu7zdC0KwSyQKC6m84Zgx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Jolusoid">
+    <configuration name="Publish Jolusoid to custom server" type="DotNetPublishAndUpload" factoryName="Publish to custom server" temporary="true">
+      <riderPublish uuid_high="2994260523698571497" uuid_low="-5288161746267664954" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Jolusoid" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Jolusoid/Jolusoid.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="Jolusoid" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Jolusoid: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Jolusoid/Jolusoid.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.Jolusoid" />
+      <item itemvalue=".NET Launch Settings Profile.Jolusoid: IIS Express" />
+      <item itemvalue="Publish to custom server.Publish Jolusoid to custom server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Publish to custom server.Publish Jolusoid to custom server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a813a1b6-98df-4719-957a-06bb658235f8" name="Default Changelist" comment="" />
+      <created>1619852019848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619852019848</updated>
+      <workItem from="1619852021242" duration="2249000" />
+      <workItem from="1619856343475" duration="6426000" />
+      <workItem from="1620016723912" duration="9574000" />
+      <workItem from="1620110567959" duration="8497000" />
+      <workItem from="1620193785129" duration="3206000" />
+      <workItem from="1620282059857" duration="9133000" />
+      <workItem from="1620385055021" duration="3150000" />
+      <workItem from="1620705563117" duration="12315000" />
+      <workItem from="1620724155548" duration="1150000" />
+      <workItem from="1620790867018" duration="9357000" />
+      <workItem from="1620879504634" duration="947000" />
+      <workItem from="1620880604444" duration="12503000" />
+      <workItem from="1620979753383" duration="53000" />
+      <workItem from="1620979852412" duration="4476000" />
+      <workItem from="1620984611556" duration="2009000" />
+      <workItem from="1621055548763" duration="14090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620880827799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620880827799" />
+    <state x="1204" y="356" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1620984706272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1204" y="356" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620984706272" />
+    <state width="914" height="202" key="GridCell.Tab.0.bottom" timestamp="1621072874897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621072874897" />
+    <state width="914" height="202" key="GridCell.Tab.0.center" timestamp="1621072874896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="202" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621072874896" />
+    <state width="914" height="202" key="GridCell.Tab.0.left" timestamp="1621072874896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="202" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621072874896" />
+    <state width="914" height="202" key="GridCell.Tab.0.right" timestamp="1621072874896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="202" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621072874896" />
+    <state x="1032" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1619852020145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1619852020145" />
+    <state x="922" y="168" key="SettingsEditor" timestamp="1620984404332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620984404332" />
+    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1620387311026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620387311026" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1620025826712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620025826712" />
+  </component>
+</project>
